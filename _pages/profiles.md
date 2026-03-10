@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: assets/img/people/limohan.jpg  # 头像路径，需先把图片放到这个位置
-    content: about_einstein.md
+    content: about_limohan.md
     image_circular: true  # 头像设为圆形
     more_info: >
       <p>李默涵</p>
@@ -22,7 +22,7 @@ profiles:
   # 第二个成员（复制上面的块，修改信息即可）
   - align: left  # 和上一个交替设为left
     image: assets/img/people/heziying.jpg 
-    content: 
+    content: about_heziying.md
     image_circular: true
     more_info: >
       <p>贺紫盈</p>
