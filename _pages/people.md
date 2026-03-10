@@ -1,7 +1,9 @@
 ---
 layout: people  # 指定页面使用 people 布局（如果主题没有该布局，可改成 layout: page）
-title: 团队成员  # 页面标题，可自定义（比如“课题组成员”“实验室成员”）
+title: people  # 页面标题，可自定义（比如“课题组成员”“实验室成员”）
 permalink: /people/  # 页面访问路径，访问 https://你的域名/people/ 就能看到
+nav: true
+nav_order: 4
 ---
 
 <!-- 页面标题（可选，可自定义） -->
