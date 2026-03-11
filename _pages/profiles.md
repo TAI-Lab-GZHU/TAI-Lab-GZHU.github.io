@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: 成员
 description: 实验室内成员。
 nav: true
 nav_order: 7

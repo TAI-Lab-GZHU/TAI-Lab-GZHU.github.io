@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: 研究方向
 permalink: /projects/
-description: 实验室近期开展的科研项目，按时间倒序排列。
+description: 实验室主要研究方向。
 nav: true
 nav_order: 3
-display_categories: [分类一, 分类二]
+display_categories: [研究方向]
 horizontal: false
 ---
 
