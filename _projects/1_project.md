@@ -4,7 +4,7 @@ title: 例子
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: 大模型安全机理
 related_publications: true
 ---
 

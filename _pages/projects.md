@@ -5,7 +5,7 @@ permalink: /projects/
 description: 实验室主要研究方向。
 nav: true
 nav_order: 3
-display_categories: [研究方向]
+display_categories: [大模型安全机理,模型内生安全增强,模型红队评测方法,模型安全自适应防护,其他维度的机器学习安全性及可信性]
 horizontal: false
 ---
 
