@@ -60,6 +60,12 @@ horizontal: false
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
 
+  <!-- 修改：统一单列（左对齐），去掉左右布局 -->
+
+  {% for project in sorted_projects %}
+    {% include projects.liquid %}
+  {% endfor %}
+
 
   {% endfor %}
 
