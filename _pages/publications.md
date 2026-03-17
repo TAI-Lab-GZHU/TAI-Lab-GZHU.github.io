@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: 学术成果
-description:  实验室发表的学术论文、专利等成果，按时间倒序排列.
+description: 
 nav: true
 nav_order: 2
 ---
