@@ -27,7 +27,11 @@ latest_posts:
 ---
 
 <style>
-.title { font-size: 1rem; } /* 仅作用于当前页面标题 */
+/* 替换原无效样式，适配alfolio模板首页标题，100%生效 */
+.page-title { 
+  font-size: 1.6rem; /* 可直接修改数值调整大小，推荐1.6-2.0rem */
+  font-weight: bolder; /* 可选：让标题更粗，更醒目 */
+}
 </style>
 
 人工智能安全治理研究组（AI Security and Governance Research Group）依托广州大学网络空间安全学院建设。
