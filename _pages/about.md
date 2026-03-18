@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 <style>
-.title { font-size: 1.8rem; } /* 仅作用于当前页面标题 */
+.title { font-size: 1rem; } /* 仅作用于当前页面标题 */
 </style>
 
 人工智能安全治理研究组（AI Security and Governance Research Group）依托广州大学网络空间安全学院建设。
