@@ -58,7 +58,7 @@ ninja.data = [{
               window.location.href = "/projects/1_%E6%A8%A1%E5%9E%8B%E9%9A%90%E7%A7%81%E6%80%A7%E6%94%BB%E5%87%BB%E6%9C%BA%E7%90%86/";
             },},{id: "projects-模型隐私性防护机理",
           title: '模型隐私性防护机理',
-          description: "项目组对MIA防护进行了理论分析，形式化定义了狭义和广义的MIA防护问题，并进一步提出神经蜜点（Neural Honeypoint）以捕获攻击行为。",
+          description: "对模型反演攻击（MIA）防护进行系统理论分析，形式化定义狭义与广义MIA防护问题，提出神经蜜点（Neural Honeypoint）框架，可有效识别攻击样本、阻断MIA攻击。",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_%E6%A8%A1%E5%9E%8B%E9%9A%90%E7%A7%81%E6%80%A7%E9%98%B2%E6%8A%A4%E6%9C%BA%E7%90%86/";
             },},{id: "projects-模型鲁棒性优化机理",
