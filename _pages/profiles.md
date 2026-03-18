@@ -20,8 +20,8 @@ profiles:
       <p>研究方向：人工智能安全、神经网络后门、主动防御、欺骗防御等。</p>
 
   - align: left
-    image: 胥迤潇.jpg
-    content: about_胥迤潇.md
+    image: xuyixiao.jpg
+    content: about_xuyixiao.md
     image_circular: true
     more_info: >
       <p>胥迤潇</p>
@@ -29,8 +29,8 @@ profiles:
       <p>研究方向：AI安全</p>
 
   - align: right
-    image: 黄家浩.jpg
-    content: about_黄家浩.md
+    image: huangjiahao.jpg
+    content: about_huangjiahao.md
     image_circular: true
     more_info: >
       <p>黄家浩</p>
@@ -38,8 +38,8 @@ profiles:
       <p>研究方向：加密恶意流量检测</p>
 
   - align: left
-    image: 许晓伟.jpg
-    content: about_许晓伟.md
+    image: xuxiaowei.jpg
+    content: about_xuxiaowei.md
     image_circular: true
     more_info: >
       <p>许晓伟</p>
@@ -47,8 +47,8 @@ profiles:
       <p>研究方向：大模型安全</p>
 
   - align: right
-    image: 张梦霞.JPG
-    content: about_张梦霞.md
+    image: zhangmengxia.jpg
+    content: about_zhangmengxia.md
     image_circular: true
     more_info: >
       <p>张梦霞</p>
@@ -56,8 +56,8 @@ profiles:
       <p>研究方向：人工智能安全、神经网络后门</p>
 
   - align: left
-    image: 吴杰.jpg
-    content: about_吴杰.md
+    image: wujie.jpg
+    content: about_wujie.md
     image_circular: true
     more_info: >
       <p>吴杰</p>
@@ -65,8 +65,8 @@ profiles:
       <p>研究方向：大模型应用安全</p>
 
   - align: right
-    image: 万佳文.png
-    content: about_万佳文.md
+    image: wanjiawen.jpg
+    content: about_wanjiawen.md
     image_circular: true
     more_info: >
       <p>万佳文</p>
@@ -74,8 +74,8 @@ profiles:
       <p>研究方向：DeepFake</p>
 
   - align: left
-    image: 李金海.jpg
-    content: about_李金海.md
+    image: lijinhai.jpg
+    content: about_lijinhai.md
     image_circular: true
     more_info: >
       <p>李金海</p>
@@ -83,8 +83,8 @@ profiles:
       <p>研究方向：具身智能</p>
 
   - align: right
-    image: 任璐易.png
-    content: about_任璐易.md
+    image: renluyi.jpg
+    content: about_renluyi.md
     image_circular: true
     more_info: >
       <p>任璐易</p>
@@ -92,8 +92,8 @@ profiles:
       <p>研究方向：LLM安全</p>
 
   - align: left
-    image: 刘欣.jpg
-    content: about_刘欣.md
+    image: liuxin.jpg
+    content: about_liuxin.md
     image_circular: true
     more_info: >
       <p>刘欣</p>
@@ -101,8 +101,8 @@ profiles:
       <p>研究方向：后门攻击与防御</p>
 
   - align: right
-    image: 陈凯欣.jpeg
-    content: about_陈凯欣.md
+    image: chenkaixin.jpg
+    content: about_chenkaixin.md
     image_circular: true
     more_info: >
       <p>陈凯欣</p>
@@ -110,8 +110,8 @@ profiles:
       <p>研究方向：后门攻击</p>
 
   - align: left
-    image: 李若涵.jpg
-    content: about_李若涵.md
+    image: liruohan.jpg
+    content: about_liruohan.md
     image_circular: true
     more_info: >
       <p>李若涵</p>
@@ -119,8 +119,8 @@ profiles:
       <p>研究方向：具身智能、人工智能安全</p>
 
   - align: right
-    image: 刘慧婷.jpg
-    content: about_刘慧婷.md
+    image: liuhuiting.jpg
+    content: about_liuhuiting.md
     image_circular: true
     more_info: >
       <p>刘慧婷</p>
@@ -128,8 +128,8 @@ profiles:
       <p>研究方向：人工智能安全，可信人工智能</p>
 
   - align: left
-    image: 王海彬.jpg
-    content: about_王海彬.md
+    image: wanghaibin.jpg
+    content: about_wanghaibin.md
     image_circular: true
     more_info: >
       <p>王海彬</p>
@@ -137,8 +137,8 @@ profiles:
       <p>研究方向：主动防御、欺骗防御、AI安全</p>
 
   - align: right
-    image: 彭泽林.jpg
-    content: about_彭泽林.md
+    image: pengzelin.jpg
+    content: about_pengzelin.md
     image_circular: true
     more_info: >
       <p>彭泽林</p>
@@ -146,8 +146,8 @@ profiles:
       <p>研究方向：人工智能安全，可信人工智能</p>
 
   - align: left
-    image: 杨剑弘.jpg
-    content: about_杨剑弘.md
+    image: yangjianhong.jpg
+    content: about_yangjianhong.md
     image_circular: true
     more_info: >
       <p>杨剑弘</p>
@@ -155,8 +155,8 @@ profiles:
       <p>研究方向：语音克隆及其防御、后门攻击、越狱攻击等</p>
 
   - align: right
-    image: 刘浩杰.jpg
-    content: about_刘浩杰.md
+    image: liuhaojie.jpg
+    content: about_liuhaojie.md
     image_circular: true
     more_info: >
       <p>刘浩杰</p>
@@ -164,8 +164,8 @@ profiles:
       <p>研究方向：人工智能</p>
 
   - align: left
-    image: 何浩谦.jpg
-    content: about_何浩谦.md
+    image: hehaoqian.jpg
+    content: about_hehaoqian.md
     image_circular: true
     more_info: >
       <p>何浩谦</p>
@@ -182,8 +182,8 @@ profiles:
       <p>研究方向：主动防御</p>
 
   - align: left
-    image: 郑禧敏.jpg
-    content: about_郑禧敏.md
+    image: zhengximin.jpg
+    content: about_zhengximin.md
     image_circular: true
     more_info: >
       <p>郑禧敏</p>
