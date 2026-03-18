@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 可信人工智能研究组-广州大学网络空间安全学院 # the website title (if blank, full name will be used instead)
-first_name: 可信人工智能研究组-广州大学网络空间安全学院
+title: 人工智能安全治理研究组-广州大学网络空间安全学院 # the website title (if blank, full name will be used instead)
+first_name: 人工智能安全治理研究组-广州大学网络空间安全学院
 middle_name: ""
 last_name: ""
 contact_note: >
-  Trustworthy Artificial Intelligence Lab
+  AI Security and Governance Research Group
 description: "" # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: ""
 keywords: [] # add your own keywords or leave empty
